@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*__pycache__*
+*.egg-info
+doc/build/*
+.pytest_cache
+.cache/
+.coverage
