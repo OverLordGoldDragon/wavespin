@@ -45,3 +45,4 @@ from .scattering1d import (
     TimeFrequencyScatteringEntry1D as TimeFrequencyScattering1D)
 from . import toolkit
 from . import visuals
+from .experiments.fix import fix_experiments
